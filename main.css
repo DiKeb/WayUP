@@ -1,0 +1,37 @@
+.redtxt {
+  color: red;
+}
+
+.back {
+  background-color: green;
+  color: white;
+  border: 6px;
+  
+  
+}
+
+.list  {
+	border: 1px solid black
+	
+	
+}
+
+.fisttxt {
+	background-color: blue;
+	font-size: 17px;
+	width: 100px;
+	height: 100px;
+	width: 100px;
+	margin-bottom: 100px;
+}
+
+.whitetxt {
+	color: white;
+
+}
+
+.whitetxt2 {
+	background-color: green;
+  color: white;
+  
+}
